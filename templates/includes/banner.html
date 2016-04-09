@@ -1,8 +1,7 @@
 <header class="header">
     <div class="wrapper">
-        <img src="{{ '/static/img/pythonrio.png'|url }}" />
         <h1 class="logo-name">
-            <a class="logo-link" href="#" title="Meetup PythonRio" itemprop="name">{{ this.title }}</a>
+            <a class="logo-link" href="#" title="{{ this.title }}" itemprop="name">{{ this.title }}</a>
         </h1>
         <h2 class="tagline">
             {% if this.date %}{{ this.date }}{% endif %}

@@ -1,13 +1,11 @@
 <nav id="nav">
     <ul class="wrapper">
     {% for href, title in [
-	['/', 'Home'],
+	    ['/', 'Home'],
         ['/#about', 'Sobre'],
         ['/#location', 'Localização'],
         ['/#speakers', 'Palestras'],
         ['/#partners', 'Parceiros'],
-	['/blog/', 'Blog'],
-    ['/events/', 'Edições Anteriores']
     ] %}
         <li class="nav-item"><a href="{{ href }}" title="{{title}}" class="nav-link">{{ title }}</a></li>
     {% endfor %}
