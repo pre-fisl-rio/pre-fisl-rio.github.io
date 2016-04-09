@@ -1,8 +1,8 @@
 _model: page.ini
 ---
-date: 19 de março de 2016
+date: 4 de junho de 2016
 ---
-title: Meetup PythOnRio
+title: Pré FISL Rio
 ---
 address: 
 ---
@@ -14,14 +14,16 @@ neighborhood:
 ---
 description:
 
-Acabou a tristeza! Agora a galera da comunidade Python do Rio de Janeiro tem um encontro marcado, a cada último sábado de todo mês. Às vezes na Barra, às vezes no Centro, o que importa é se reunir para conversar, compartilhar e aprender.
+Está vindo aí o Pré FISL Rio!
 
-Acompanhe-nos em nossas redes sociais para saber tudo sobre nossos encontros e as últimas novidades da comunidade Python.
+A edição é um dos muitos eventos de aquecimento para o [FISL](http://softwarelivre.org/fisl17/) (Fórum Internacional de Software Livre) que irão acontecer pelo Brasil.
+
+A versão carioca será cheia de palestras e workshops  para veteranos e curiosos sobre Software Livre. Venha conosco preparar os motores para o FISL 17!
+
+[+ Facebook](https://www.facebook.com/prefislrio/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[+ Twitter](https://twitter.com/prefislrio)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[+ Email](mailto:pre-fisl-rio@gmail.com)
 ---
 partners: 
 ---
-url_callpapers: http://call4paperz.com/events/vii-encontro-da-pythonrio
-
+url_callpapers: 
 ---
-url_applications:
-https://www.eventbrite.com/e/vii-pythonrio-tickets-22937799576
+url_applications: 
