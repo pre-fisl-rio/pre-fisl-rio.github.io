@@ -1,5 +1,5 @@
 [project]
-name = pythonrio
+name = pre-fisl-rio
 
 [servers.ghpages]
 target = ghpages+https://pre-fisl-rio/pre-fisl-rio.github.io
