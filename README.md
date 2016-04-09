@@ -1,5 +1,6 @@
-# Site PythOnRio
-Este repositório contém o site da comunidade [PythOnRio](http://pythonrio.github.io/). Sinta-se livre para forkar e colaborar \o/
+# Site Pré FISL Rio
+Este repositório contém o site do evento Pré FISL no Rio de Janeiro. Sinta-se livre para forkar e colaborar \o/
+Projeto forkado da comunidade [PythOnRio](http://pythonrio.github.io/).
 
 ## Instalação
 Utilizamos o [Lektor](https://github.com/lektor/lektor) para gerar o site estático. Para instalar o projeto em seu ambiente execute:
