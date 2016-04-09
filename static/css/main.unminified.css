@@ -310,8 +310,7 @@ p {
 }
 .photo {
   max-width: 100%;
-  position: relative;
-  top: -1px;
+  max-height: 100%;
 }
 /* =============================================================================
    NAVIGATION
@@ -951,4 +950,20 @@ nav {
   .github-link {
     display: none;
   }
+}
+/* =============================================================================
+   Pre FISL Customization
+   ========================================================================== */
+h1,
+h2,
+h3 {
+  font-family: 'Paytone One', helvetica, sans-serif;
+  font-weight: initial;
+}
+body {
+  background-color: #EDFFFC;
+  font-family: 'Montserrat', sans-serif, 'Liberation Sans', Arial;
+}
+nav {
+  background-color: #e46103;
 }
