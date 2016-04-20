@@ -737,7 +737,7 @@ nav {
 }
 .header-blog {
   background-image: url('/static/img/cover.jpg');
-  background-color: #2b2b2b;
+  background-color: #00B7C5;
   background-repeat: no-repeat;
   background-position: center top;
   background-size: 100% auto;
@@ -963,6 +963,7 @@ h3 {
 body {
   background-color: #EDFFFC;
   font-family: 'Montserrat', sans-serif, 'Liberation Sans', Arial;
+  color: #000;
 }
 nav {
   background-color: #e46103;
