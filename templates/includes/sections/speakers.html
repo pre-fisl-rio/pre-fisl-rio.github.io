@@ -2,11 +2,13 @@
 <section class="speakers" id="speakers">
     <h2 class="section-title">Palestras</h2>
 
-    {% if this.url_callpapers %}
+    {% if this.url_callpapers|trim %}
     <p itemprop="description">Para submeter ou votar em uma palestra, acesse o nosso <a href="{{ this.url_callpapers }}" target="_blank">Call4Paperz</a>.</p>
+    {% else %}
+    <p itemprop="description">Estamos preparando um super cronograma para o evento. Em breve, mais novidades!</p>
     {% endif %}
 
-    {% if this.speakers %}
+    {% if this.speakers|trim %}
     <ul class="speakers-list">
     {% for speaker in this.speakers.blocks %}
         <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
