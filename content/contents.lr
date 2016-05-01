@@ -42,3 +42,15 @@ link:
 bio: Todos conhecem a Wikipédia, enciclopédia livre escrita por voluntários que é o quinto site mais acessado do mundo, mas poucos sabem do mar de possibilidades existentes no projeto para programadores e pesquisadores de dados. Nessa apresentação serão apresentadas formas de colaborar tecnicamente com a Wikipédia e seus projetos coirmãos assim como será demostrado como obter metadados públicos para pesquisas. Nessa apresentação pretende-se expor como se organiza a comunidade Movimento Wikimedia que mantém a Wikipédia e seus projetos coirmãos, como funciona o MediaWiki, CMS desenvolvido pela Wikimedia Foundation utilizado em nossos projetos e em milhares de outros sites e o que são e como desenvolver extensões e gadgets. Também demonstraremos o que fazem e como criar Bots, como acessar e o que encontrar em nossa API e nossos projetos de desenvolvimento mobile. Por fim iremos apresentar nossa Central de Dados onde podem ser encontrados resultados de pesquisas, dados brutos e instruções sobre como obter dados públicos dos projetos Wikimedia e iremos convidar os presentes a contribuir com os projetos, apresentando mais exemplos práticos de ferramentas criadas colaborativamente além do core do mediawiki.
 ----
 photo: henrique-andrade.jpg
+#### speaker ####
+talk: Videografismo com Software Livre
+----
+name: Cadunico
+----
+at: 
+----
+link: 
+----
+bio: Mostrar para o público que é possível editar vídeo e gerar videografismo utilizando somente software livre em todo processo.
+----
+photo: cadunico.jpg
