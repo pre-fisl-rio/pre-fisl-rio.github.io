@@ -78,3 +78,18 @@ link:
 bio: Em ambientes de desenvolvimento de software, os projetos e suas especificações tendem a ser dinâmicos e adaptativos, necessitando de soluções iterativas e transparentes. O Scrum é um conjunto simples e eficiente de princípios, valores e práticas utilizado no gerenciamento de projetos que auxiliam no desenvolvimento de software através da sua execução por meio de ciclos iterativos e incrementais. O Scrum tem como premissas entregas rápidas, melhorias contínuas e rápida adaptação às mudanças. Ao longo dessa conversa, vamos apresentar uma introdução ao Scrum: seus pilares, papéis, conceitos e o funcionamento de uma sprint. Também abordaremos as ocasiões em que é recomendado utilizar Scrum, bem como as vantagens da metodologia. Concluiremos a apresentação com uma breve citação de algumas ferramentas livres utilizadas no apoio ao Scrum.
 ----
 photo: revy.jpg
+#### speaker ####
+talk: Do Midi a Música utilizando Software Livre
+----
+name: Sebastião
+----
+at: 
+----
+link: 
+----
+bio:
+
+Apresentação de softwares livres que já se encontram disponíveis e estão conquistando seu espaço no mercado. Ferramentas estas utilizadas no intuito de chegar-se a um produto final mais profissional.
+Trilhando por este caminho nos deparamos com a realidade de um home studio: construção de trilhas por meio de midis onde as mudanças necessárias de timbres ocorrem através da utilização de soundfonts e DAWs . 
+----
+photo: sebastiao.jpg
