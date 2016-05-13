@@ -5,7 +5,7 @@
         {% for partner in this.partners.blocks %}
         <li class="partner-item" itemscope itemtype="http://schema.org/Organization">
             <a href="{{ partner.url }}" target='_blank' class="partner-logo partner-link" itemprop="url">
-                <img src="{{ partner.logo }}" alt="{{ partner.name }}" class="photo" itemprop="image">
+                <img src="{{ partner.logo }}" alt="{{ partner.name }}" class="photo {% if partner.padding %}partner-logo-padding{% endif %}" itemprop="image">
             </a>
         </li>
         {% endfor %}
