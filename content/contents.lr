@@ -22,11 +22,30 @@ A versão carioca será cheia de palestras e workshops  para veteranos e curioso
 
 [+ Facebook](https://www.facebook.com/prefislrio/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[+ Twitter](https://twitter.com/prefislrio)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[+ Email](mailto:pre-fisl-rio@gmail.com)
 ---
-partners: 
+partners:
+
+#### partner ####
+name: Fórum Internacional de Software Livre
+----
+url: http://softwarelivre.org/fisl17
+----
+logo: fisl.png
+#### partner ####
+name: Senac
+----
+url: http://www.senac.br/
+----
+logo: senac.png
+#### partner ####
+name: Casa do Código
+----
+url: http://www.casadocodigo.com.br
+----
+logo: cdc.png
+----
+url_callpapers:
 ---
-url_callpapers: 
----
-url_applications: 
+url_applications:
 ---
 speakers:
 
@@ -35,9 +54,9 @@ talk: Hackeie a Wikipédia!
 ----
 name: Henrique Andrade
 ----
-at: 
+at:
 ----
-link: 
+link:
 ----
 bio: Todos conhecem a Wikipédia, enciclopédia livre escrita por voluntários que é o quinto site mais acessado do mundo, mas poucos sabem do mar de possibilidades existentes no projeto para programadores e pesquisadores de dados. Nessa apresentação serão apresentadas formas de colaborar tecnicamente com a Wikipédia e seus projetos coirmãos assim como será demostrado como obter metadados públicos para pesquisas. Nessa apresentação pretende-se expor como se organiza a comunidade Movimento Wikimedia que mantém a Wikipédia e seus projetos coirmãos, como funciona o MediaWiki, CMS desenvolvido pela Wikimedia Foundation utilizado em nossos projetos e em milhares de outros sites e o que são e como desenvolver extensões e gadgets. Também demonstraremos o que fazem e como criar Bots, como acessar e o que encontrar em nossa API e nossos projetos de desenvolvimento mobile. Por fim iremos apresentar nossa Central de Dados onde podem ser encontrados resultados de pesquisas, dados brutos e instruções sobre como obter dados públicos dos projetos Wikimedia e iremos convidar os presentes a contribuir com os projetos, apresentando mais exemplos práticos de ferramentas criadas colaborativamente além do core do mediawiki.
 ----
@@ -47,9 +66,9 @@ talk: Videografismo com Software Livre
 ----
 name: Cadunico
 ----
-at: 
+at:
 ----
-link: 
+link:
 ----
 bio: Mostrar para o público que é possível editar vídeo e gerar videografismo utilizando somente software livre em todo processo.
 ----
@@ -59,9 +78,9 @@ talk: Empoderamento feminino com uso do software livre
 ----
 name: Julyane Miranda
 ----
-at: 
+at:
 ----
-link: 
+link:
 ----
 bio: Nessa palestra você vai conhecer algumas histórias de empoderamento feminino com o uso do software livre. Quais são as novidades no mercado de Tecnologia da Informação com essa abordagem e como usar algumas ferramentas para auxiliar mulheres em situação de risco.
 ----
@@ -71,9 +90,9 @@ talk: Scrum: soluções simples para problemas complexos
 ----
 name: Danielle Caled
 ----
-at: 
+at:
 ----
-link: 
+link:
 ----
 bio: Em ambientes de desenvolvimento de software, os projetos e suas especificações tendem a ser dinâmicos e adaptativos, necessitando de soluções iterativas e transparentes. O Scrum é um conjunto simples e eficiente de princípios, valores e práticas utilizado no gerenciamento de projetos que auxiliam no desenvolvimento de software através da sua execução por meio de ciclos iterativos e incrementais. O Scrum tem como premissas entregas rápidas, melhorias contínuas e rápida adaptação às mudanças. Ao longo dessa conversa, vamos apresentar uma introdução ao Scrum: seus pilares, papéis, conceitos e o funcionamento de uma sprint. Também abordaremos as ocasiões em que é recomendado utilizar Scrum, bem como as vantagens da metodologia. Concluiremos a apresentação com uma breve citação de algumas ferramentas livres utilizadas no apoio ao Scrum.
 ----
@@ -83,13 +102,13 @@ talk: Do Midi a Música utilizando Software Livre
 ----
 name: Sebastião Carlos
 ----
-at: 
+at:
 ----
-link: 
+link:
 ----
 bio:
 
 Apresentação de softwares livres que já se encontram disponíveis e estão conquistando seu espaço no mercado. Ferramentas estas utilizadas no intuito de chegar-se a um produto final mais profissional.
-Trilhando por este caminho nos deparamos com a realidade de um home studio: construção de trilhas por meio de midis onde as mudanças necessárias de timbres ocorrem através da utilização de soundfonts e DAWs . 
+Trilhando por este caminho nos deparamos com a realidade de um home studio: construção de trilhas por meio de midis onde as mudanças necessárias de timbres ocorrem através da utilização de soundfonts e DAWs .
 ----
 photo: sebastiao.jpg
