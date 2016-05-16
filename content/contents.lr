@@ -36,6 +36,8 @@ name: Senac
 url: http://www.senac.br/
 ----
 logo: senac.png
+----
+padding: Yes
 #### partner ####
 name: Casa do Código
 ----
@@ -43,7 +45,7 @@ url: http://www.casadocodigo.com.br
 ----
 logo: cdc.png
 ----
-url_callpapers:
+padding: Yes
 ---
 url_applications: https://www.eventbrite.com.br/e/pre-fisl-rio-tickets-25469986415
 ---
