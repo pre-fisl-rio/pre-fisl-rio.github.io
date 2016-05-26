@@ -25,6 +25,12 @@ A versão carioca será cheia de palestras e workshops  para veteranos e curioso
 partners:
 
 #### partner ####
+name: Associação Software Livre
+----
+url: http://softwarelivre.org/asl
+----
+logo: asl.png
+#### partner ####
 name: Fórum Internacional de Software Livre
 ----
 url: http://softwarelivre.org/fisl17
@@ -56,9 +62,9 @@ talk: Hackeie a Wikipédia!
 ----
 name: Henrique Andrade
 ----
-at: 
+at:
 ----
-link: 
+link:
 ----
 bio: Todos conhecem a Wikipédia, enciclopédia livre escrita por voluntários que é o quinto site mais acessado do mundo, mas poucos sabem do mar de possibilidades existentes no projeto para programadores e pesquisadores de dados. Nessa apresentação serão apresentadas formas de colaborar tecnicamente com a Wikipédia e seus projetos coirmãos assim como será demostrado como obter metadados públicos para pesquisas. Nessa apresentação pretende-se expor como se organiza a comunidade Movimento Wikimedia que mantém a Wikipédia e seus projetos coirmãos, como funciona o MediaWiki, CMS desenvolvido pela Wikimedia Foundation utilizado em nossos projetos e em milhares de outros sites e o que são e como desenvolver extensões e gadgets. Também demonstraremos o que fazem e como criar Bots, como acessar e o que encontrar em nossa API e nossos projetos de desenvolvimento mobile. Por fim iremos apresentar nossa Central de Dados onde podem ser encontrados resultados de pesquisas, dados brutos e instruções sobre como obter dados públicos dos projetos Wikimedia e iremos convidar os presentes a contribuir com os projetos, apresentando mais exemplos práticos de ferramentas criadas colaborativamente além do core do mediawiki.
 ----
@@ -68,9 +74,9 @@ talk: Videografismo com Software Livre
 ----
 name: Cadunico
 ----
-at: 
+at:
 ----
-link: 
+link:
 ----
 bio: Mostrar para o público que é possível editar vídeo e gerar videografismo utilizando somente software livre em todo processo.
 ----
@@ -80,9 +86,9 @@ talk: Empoderamento feminino com uso do software livre
 ----
 name: Julyane Miranda
 ----
-at: 
+at:
 ----
-link: 
+link:
 ----
 bio: Nessa palestra você vai conhecer algumas histórias de empoderamento feminino com o uso do software livre. Quais são as novidades no mercado de Tecnologia da Informação com essa abordagem e como usar algumas ferramentas para auxiliar mulheres em situação de risco.
 ----
@@ -92,9 +98,9 @@ talk: Scrum: soluções simples para problemas complexos
 ----
 name: Danielle Caled
 ----
-at: 
+at:
 ----
-link: 
+link:
 ----
 bio: Em ambientes de desenvolvimento de software, os projetos e suas especificações tendem a ser dinâmicos e adaptativos, necessitando de soluções iterativas e transparentes. O Scrum é um conjunto simples e eficiente de princípios, valores e práticas utilizado no gerenciamento de projetos que auxiliam no desenvolvimento de software através da sua execução por meio de ciclos iterativos e incrementais. O Scrum tem como premissas entregas rápidas, melhorias contínuas e rápida adaptação às mudanças. Ao longo dessa conversa, vamos apresentar uma introdução ao Scrum: seus pilares, papéis, conceitos e o funcionamento de uma sprint. Também abordaremos as ocasiões em que é recomendado utilizar Scrum, bem como as vantagens da metodologia. Concluiremos a apresentação com uma breve citação de algumas ferramentas livres utilizadas no apoio ao Scrum.
 ----
@@ -104,9 +110,9 @@ talk: Do Midi a Música utilizando Software Livre
 ----
 name: Sebastião Carlos
 ----
-at: 
+at:
 ----
-link: 
+link:
 ----
 bio:
 
@@ -119,9 +125,9 @@ talk: Gerenciando Aplicações com Docker-Compose
 ----
 name: Felipe Arruda
 ----
-at: 
+at:
 ----
-link: 
+link:
 ----
 bio: Nesse workshop veremos de forma geral como utilizar o Docker para rodar suas aplicações de forma modularizada, e como utilizar o Docker-compose para gerenciar cada parte de um projeto.
 ----
@@ -131,9 +137,9 @@ talk: Entendendo e Otimizando o Reuso de Software
 ----
 name: Thais Viana
 ----
-at: 
+at:
 ----
-link: 
+link:
 ----
 bio: Por mais que seja de comum acordo entre a comunidade de desenvolvedores que o reuso de software aumenta a produtividade e em muitas vezes a qualidade do produto final desenvolvido. Essa prática apesar de difundida não é considerada padrão entre empresas e desenvolvedores. Nesse talk abordarei técnicas difundidas de reuso de software, suas vantagens e problemas e por fim apresentarei o projeto de uma ferramenta de busca que auxilia essa tarefa.
 ----
