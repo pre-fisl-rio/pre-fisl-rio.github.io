@@ -144,3 +144,72 @@ link:
 bio: Por mais que seja de comum acordo entre a comunidade de desenvolvedores que o reuso de software aumenta a produtividade e em muitas vezes a qualidade do produto final desenvolvido. Essa prática apesar de difundida não é considerada padrão entre empresas e desenvolvedores. Nesse talk abordarei técnicas difundidas de reuso de software, suas vantagens e problemas e por fim apresentarei o projeto de uma ferramenta de busca que auxilia essa tarefa.
 ----
 photo: thais-viana.jpg
+---
+activities:
+
+#### activity ####
+name: Credenciamento
+----
+local: Auditório
+----
+time: 09:00
+#### activity ####
+name: Hackeie a Wikipédia! - Henrique Andrade
+----
+local: Auditório
+----
+time: 10:00
+#### activity ####
+name: Do Midi a Música utilizando Software Livre - Sebastião Carlos
+----
+local: Auditório
+----
+time: 11:00
+#### activity ####
+name: Almoço
+----
+local: -
+----
+time: 12:00
+#### activity ####
+name: Empoderamento feminino com uso do software livre - Julyane Miranda
+----
+local: Auditório
+----
+time: 13:30
+#### activity ####
+name: Gerenciando Aplicações com Docker-Compose - Felipe Arruda
+----
+local: Sala 501
+----
+time: 14:00
+#### activity ####
+name: Videografismo com Software Livre - Cadunico
+----
+local: Auditório
+----
+time: 14:30
+#### activity ####
+name: Coffee break
+----
+local: Auditório
+----
+time: 15:30
+#### activity ####
+name: Entendendo e Otimizando o Reuso de Software - Thais Vianna
+----
+local: Auditório
+----
+time: 16:00
+#### activity ####
+name: Scrum: soluções simples para problemas complexos - Danielle Caled
+----
+local: Auditório
+----
+time: 16:30
+#### activity ####
+name: Encerramento (agradecimentos, sorteios, foto)
+----
+local: Auditório
+----
+time: 17:00
