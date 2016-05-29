@@ -30,6 +30,8 @@ name: Associação Software Livre
 url: http://softwarelivre.org/asl
 ----
 logo: asl.png
+----
+padding: Yes
 #### partner ####
 name: Fórum Internacional de Software Livre
 ----
