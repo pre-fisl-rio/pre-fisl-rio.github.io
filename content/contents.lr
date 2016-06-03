@@ -54,6 +54,12 @@ url: http://www.casadocodigo.com.br
 logo: cdc.png
 ----
 padding: Yes
+#### partner ####
+name: Rio Hacker Space
+----
+url: https://www.facebook.com/RioHackerSpace
+----
+logo: riohackerspace.png
 ---
 url_applications: https://www.eventbrite.com.br/e/pre-fisl-rio-tickets-25469986415
 ---
